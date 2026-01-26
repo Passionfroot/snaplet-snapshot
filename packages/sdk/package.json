@@ -64,7 +64,7 @@
     "inflection": "3.0.0",
     "javascript-stringify": "2.1.0",
     "json-schema-library": "9.1.2",
-    "lodash": "4.17.21",
+    "lodash": "4.17.23",
     "multipipe": "4.0.0",
     "p-memoize-cjs": "7.1.0",
     "pg": "8.10.0",
